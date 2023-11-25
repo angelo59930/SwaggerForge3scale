@@ -1,0 +1,6 @@
+backend:
+  swaggerUrl: http://nomenclador-api-aseautorizaciones-test.apps.osnoprod01.aseconecta.com.ar/api-docs
+  privateBaseURL: http://nomenclador-api.test.apps.osnoprod01.aseconecta.com.ar
+  backendName: "parametria api"
+  name: "name"
+  path: "./test/backends"
